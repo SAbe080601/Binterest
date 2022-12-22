@@ -1,10 +1,7 @@
 # About Binterest
 
 Welcome to Shinya Abe's Binterest App which Utilizes ApolloClient 
-and React.js for the client and ApolloServer, GraphQL, Node.js, and Redis on the server.
-This application allows a single user to Add and remove trainers, and 
-pick pokemon to either catch and add to a selected trainer's collection, or 
-release back into the wild.
+and React.js for the client and ApolloServer, GraphQL, Node.js, and Redis on the server. This application allows a single user to bin and unbin posts they see on the home page, and create posts of their own to display on the home page.
 
 ## Getting Started with Running Binterest
 

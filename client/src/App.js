@@ -32,9 +32,7 @@ function App() {
           <header className='App-header'> 
             <div className="App">
               <h1 className="appTitle"> 
-                Binterest Application which Utilizes ApolloClient 
-                and React.js for the client and ApolloServer, 
-                GraphQL, Node.js, and Redis on the server. 
+                Binterest 
               </h1>
             </div>
             <nav>

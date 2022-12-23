@@ -6,7 +6,7 @@ and React.js for the client and ApolloServer, GraphQL, Node.js, and Redis on the
 ## Getting Started with Running Binterest
 
 ## Get custom AccessKey from Unsplash (https://unsplash.com/developers) and set variable accordingly in project:
-### `./server/server.js ... AccessKey={personal access key}`
+### `./server/server.js - const AccessKey={personal access key}`
 
 ## Install Node.js on local Machine globally
 ## Install and Run Redis on local Machine globally
